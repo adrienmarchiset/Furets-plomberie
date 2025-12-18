@@ -80,7 +80,7 @@ export default function FuretPlomberie() {
               }}
             >
               <img 
-                src="https://images.unsplash.com/photo-1589939705882-cd1d1a5e1640?w=500&h=400&fit=crop" 
+                src="/images.jpg" 
                 alt="Furet plomberie" 
                 className="w-full h-full object-cover hover:scale-105 transition-transform duration-500"
               />
